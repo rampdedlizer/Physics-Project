@@ -1,4 +1,5 @@
-
+Findings lekhda Hydro reference(2010):
+One major technical barrier to fully harnessing Nepal’s hydroelectric potential is the country’s hydrology. The rugged and mountain alpine terrain endows Nepal with plentiful moving water, but the South-West monsoon delivering it is inconsistent. About 80 percent of the country’s rain occurs from June to September, the remaining 20 percent falls as snow during the dry season. This mismatch between when water is available and when it is needed year-round to generate hydroelectricity creates a complicated engineering challenge, leading severe load shedding particularly in winter, of up to 18 hours at times.
 
 
 Direct References :
@@ -15,9 +16,7 @@ Economics, 2005, 10, 337-361
 http://www.worldbank.org/en/topic/energy. [Accessed
 Dec. 23, 2019]
 
-4)L. Chen, N. Heerink and M. Berg, “Energy consumption
-in rural china: A household model for three village in
-Jiangxi province”, Ecological Economics, 2006, 58, 407-420
+4)		
 
 5)WECS, Nepal, “Energy consumption situation in Nepal
 year 2011/2012”, 2014
@@ -27,3 +26,17 @@ year 2011/2012”, 2014
 7)Shrestha R. "Electricity Crisis (Load Shedding) in Nepal, Its Manifestations and Ramifications" Research Gate,2011,6,1-2
 
 8)NEA, "A Year in Review", 2017/2018
+
+9)Renewable Energy and Energy Efficiency Partnership (REEEP) Clean Energy Information Portal, Energy Profile Nepal (Vienna: REEEP Secretariat, 2012)
+
+10)WHO 2010: WHO Household Energy Database
+
+11)
+12)https://energypedia.info/wiki/Nepal_Energy_Situation#cite_note-UNDP_Asia_Pacific-2
+
+13)Shahi D. "Study on Household Energy Usage Patterns in Urban and Rural Areas
+of Nepal" 2019, 15(3),4-5
+
+14)Shahi D. "Study on Household Energy Usage Patterns in Urban and Rural Areas
+of Nepal" 2019, 15(3),7-8
+
